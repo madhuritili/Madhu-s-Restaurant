@@ -15,7 +15,7 @@ A responsive **restaurant web page** built using **HTML5** and **CSS3**, showcas
 - ⭐ **Feedback Section** – Users can submit ratings.  
 - 📞 **Contact Section** – Email and phone contact information.  
 - 🖥️ **Responsive Design** – Optimized for desktop browsing.
-
+---
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  

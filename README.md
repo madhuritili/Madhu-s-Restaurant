@@ -39,3 +39,6 @@ Madhu's Restaurant/<br>
 4. Enjoy the website!  
 
 ---
+
+<img width="1920" height="1020" alt="Screenshot 2025-12-26 150522" src="https://github.com/user-attachments/assets/fc47b8a1-d12f-4020-8b01-81ea462ac215" />
+

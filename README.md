@@ -25,14 +25,14 @@ A responsive **restaurant web page** built using **HTML5** and **CSS3**, showcas
 
 ## 📂 Folder Structure
 
-Madhu's Restaurant/
-├─ index.html
-├─ restaurant.css
+Madhu's Restaurant/<br>
+├─ index.html<br>
+├─ restaurant.css<br>
 └─ README.md
 
 ----
 
-## How to Run
+##🚀 How to Run
 1. Clone or download the repository.  
 2. Open the folder in **VS Code**.  
 3. Open `index.html` with **Live Server** (recommended) or your browser.  
